@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.45.1
 tensorflow==2.13.0
-numpy==1.23.5
 pandas
-scikit-learn
+numpy
+yfinance
 matplotlib
+scikit-learn
