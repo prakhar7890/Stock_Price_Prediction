@@ -1,3 +1,6 @@
+[python]
+version = "3.10"
+
 [server]
 headless = true
 enableCORS = false
@@ -10,4 +13,3 @@ backgroundColor="#ffffff"
 secondaryBackgroundColor="#f0f2f6"
 textColor="#262730"
 font="sans serif"
-
