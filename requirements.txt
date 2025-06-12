@@ -1,7 +1,7 @@
 streamlit==1.45.1
-tensorflow==2.15.0
+tensorflow-cpu==2.14.0
 pandas
 numpy
-yfinance
 matplotlib
-scikit-learn
+yfinance
+sciket-learn
